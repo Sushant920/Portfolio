@@ -67,7 +67,7 @@ class _JourneyState extends State<Journey> {
         ),
 
       padding: const EdgeInsets.all(30.0),
-      height: 1400.0,
+      height: 1310.0,
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
